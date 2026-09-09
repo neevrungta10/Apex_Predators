@@ -1,0 +1,6 @@
+{
+  "name": "PS4: Voice AI Companion Backend",
+  "description": "Production-ready FastAPI backend script and testing workbench for PS4: Personalized Voice AI Companion with Gemini and Supabase pgvector memory pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
